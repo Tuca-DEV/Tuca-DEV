@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.png)
 
 I am a Computer Engineering student (last semester) at UFGD. Interested in NLP/AI issues and learning new idioms.
 
