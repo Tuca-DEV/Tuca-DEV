@@ -5,7 +5,7 @@ I am a Computer Engineering student (last semester) at UFGD. Interested in NLP/A
 * 🌍  I'm based in MS - Brazil
 * 🖥️  See my extra portfolio at [LinkedIn](http://www.linkedin.com/in/tuca-dev/)
 * ✉️  You can contact me at [guga_camil@hotmail.com](mailto:tuca.dev@gmail.com)
-* 🚀  I'm currently working on my [Physical Training AI](http://github.com/Tuca-DEV/tcc) and on [UFGD WebSystems](https://ufgdnet.app.ufgd.edu.br/) as a Intern
+* 🚀  I'm currently working on my [Physical Training AI](http://github.com/Tuca-DEV/tcc) and on [UFGD WebSystems](https://ufgdnet.app.ufgd.edu.br/) as an intern
 * 🧠  I'm learning JavaScript/Node.JS and Java/JPA
 * 🗣️  I can speak Portuguese *(native)*, English *(C1 level)*, Spanish *(Intermediate)*, and Korean *(Basic)*
 
